@@ -4,8 +4,7 @@
 ### Hi, I’m Prabin 👋
 
 
-> _“Currently running on coffee, curiosity, and
-> a suspicious amount of Python scripts.”_
+> _“Currently running on coffee, curiosity.”_
 
 ---
 
@@ -17,13 +16,13 @@
 
 ---
 
-### 🚀 What I’m Working On
+###  What I’m Working On
 
-- 🤖 AI inference & training 
-- 🕵️‍♂️ Experimenting with agentic AI
-- 🛠️ Building GenAI tools for the real world
-- 🔄 Workflow automation (so my code works while I nap)
-- 📝 Casual content creation & rapid prototyping
+-  AI inference & training 
+-  Experimenting with agentic AI
+-  Building GenAI tools for the real world
+-  Workflow automation (so my code works while I nap)
+-  Casual content creation & rapid prototyping
 
 ---
 
@@ -31,8 +30,8 @@
 
 <!-- Retro game style with pixel art shields and font! -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pluto-111&show_icons=true&theme=retro&icon_color=FFD700&title_color=FF6F00&text_color=F3E99F&bg_color=2d2d2d" alt="Prabin's GitHub stats" width="425"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluto-111&layout=compact&theme=retro&title_color=FF6F00&text_color=F3E99F&bg_color=2d2d2d" alt="Top Languages" width="325"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=renovamen1&show_icons=true&theme=retro&icon_color=FFD700&title_color=FF6F00&text_color=F3E99F&bg_color=2d2d2d" alt="Prabin's GitHub stats" width="425"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renovamen1&layout=compact&theme=retro&title_color=FF6F00&text_color=F3E99F&bg_color=2d2d2d" alt="Top Languages" width="325"/>
 </p>
 
 <p align="center">
