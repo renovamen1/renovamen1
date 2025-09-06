@@ -1,11 +1,11 @@
 
 ###  About Me
 
-- Data Science undergrad | trying to build stuffs & write stuffs sometime
+- Data Science undergrad | trying to build stuffs & write stuffs sometime,652
 - kinda obessessive, experiment a lot, awaiting agi
 - again i build stuffs, occasionally break it, and always learn from both!
 
----
+
 
 
 
