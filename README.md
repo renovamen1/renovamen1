@@ -1,26 +1,13 @@
-# Hey there, you found me.
-[![X(Twitter)](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Prab1n_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabin-thakur-951773321/)
-### Hi, I’m Prabin 👋
-
-
-> _“Currently running on coffee, curiosity.”_
-
----
 
 ###  About Me
 
-- 🎓 Data Science undergrad | trying to build stuffs & write stuffs sometime
-- ❤️ kinda obessessive, experiment a lot, awaiting agi
-- 🚧 again i build stuffs, occasionally break it, and always learn from both!
+- Data Science undergrad | trying to build stuffs & write stuffs sometime
+- kinda obessessive, experiment a lot, awaiting agi
+- again i build stuffs, occasionally break it, and always learn from both!
 
 ---
 
-###  What I’m Working On
 
--  bulding smaller models for quick usecases 
--  automation ,agentic ai, and trying to implement gen ai as much 
----
 
 
 
