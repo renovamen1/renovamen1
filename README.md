@@ -1,9 +1,9 @@
 
 ###  About Me
 
-- Data Science undergrad | student researcher 
+- Data Science undergrad | Student researcher 
 - kinda obessessive, experiment a lot and awaiting ai to do my dishes.
-- tryin to build stuffs, occasionally break it, and always learn from both.
+- tryin to build stuffs, occasionally breaking it, and always learning from both.
 
 
 
@@ -24,10 +24,10 @@ Retro game style with pixel art shields and font! -->
 </p> -->
 
 
-##  My dream:
+##  dream:
 >  `while(sleeping){money++;}`  
 If you figure out how, DM me.
 
 ---
 
-Thanks for stopping by! Drop a star ⭐ or a message if you want to chat about AI, automations, or sleep economics.
+
