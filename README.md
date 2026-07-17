@@ -26,7 +26,7 @@ Retro game style with pixel art shields and font! -->
 
 ##  dream:
 >  `while(sleeping){money++;}`  
-If you figure out how, DM me.
+
 
 ---
 
