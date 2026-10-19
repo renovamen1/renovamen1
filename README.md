@@ -1,9 +1,8 @@
 
 ###  Hmmm, About me?
 - i'm a Data Science undergrad and a student researcher 
-- creative, obessessive, reluctant individual and probably not anti-social.
-- i guess book is my best friend & i like experimenting, tweaking,creating art, tools and workflows.
-- tryin to build stuffs and mostly end up breaking it.
+- creative, obessessive, ecccentric but do like working with people.
+- breaking stuffs mostly but creating,created few presentables.
 <br>
 
 #### here's where you can find my cringe stuffs:
