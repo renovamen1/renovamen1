@@ -53,7 +53,7 @@ Retro game style with pixel art shields and font! -->
 </p> -->
 
 
-#### and i gotta pretty dream:
+#### here's the pretty dream i got:
 >  `while(sleeping){money++;}`  
 
 
